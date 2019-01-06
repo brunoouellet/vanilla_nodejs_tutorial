@@ -1,0 +1,19 @@
+{
+  "name": "vanilla_nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial from this article: https://medium.com/@saurabhkumar_4718/a-simple-nodejs-server-without-express-js-6773122d365f",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoouellet/vanilla_nodejs_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoouellet/vanilla_nodejs_tutorial/issues"
+  },
+  "homepage": "https://github.com/brunoouellet/vanilla_nodejs_tutorial#readme"
+}
